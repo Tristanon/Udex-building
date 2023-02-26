@@ -1,4 +1,4 @@
-# Wiki Project
+# Udex-bulding Project
 (Description here) - Building/Biography 
 ## Available Features
 - User can see posts about building & biography of each person
